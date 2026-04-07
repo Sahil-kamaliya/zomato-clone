@@ -33,7 +33,7 @@ zomato-clone/
 ## Getting Started
 
 1. Clone the repository:
-git clone https://github.com/Sahil-kamaliya/zomato-clone.git
+https://github.com/Sahil-kamaliya/gir-clone
 
 2. Navigate to the project folder:
 cd zomato-clone
